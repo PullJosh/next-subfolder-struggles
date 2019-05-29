@@ -17,3 +17,5 @@ I would expect all of the following pages to work, but only some do:
 
 However, in the production Now environment, everything works great!
 https://next-subfolder-struggles.pulljosh.now.sh/
+
+Thanks to the Zeit team for all their excellent work! :)
